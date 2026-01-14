@@ -1,0 +1,1 @@
+# tertiary_institution_exercise_3.sql
